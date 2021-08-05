@@ -1,0 +1,367 @@
+textArea{
+    text-align: justify;
+}
+.btn{
+    margin: 0 auto;
+}
+.hr_footer{
+    width: 100%;
+    float: left;
+    margin: 0 0 10px 0;
+}
+.page_footer {
+    width: 80%;
+    height: 40px;
+    bottom: 0;
+    position: fixed;
+    background: white;
+    float: left;
+    margin: 0 0 0px -10px;
+}
+.navbar.navbar-default {
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    float: left;
+    margin: 0 0;
+}
+
+.content {
+    margin-top: 50px;
+}
+p.footer-right {
+    float: right;
+    width: 50%;
+    text-align: right;
+}
+
+p.footer-left {
+    float: left;
+    width: 50%;
+}
+.filters select {
+    padding: 3px 0px;
+    max-width: 120px;
+}
+.filters input{
+    line-height: 20px;
+    max-width:150px;
+}
+.filters span {
+    float: left;
+    margin: 0px 15px 10px 0;
+}
+.filters span .btn {
+    height: 28px;
+    width: 60px;
+    padding: 1px 0 0 0;
+}
+.table-bordered{
+    margin-bottom: 0;
+}
+.pagination_custom {
+    text-align: right;
+}
+.pagination_custom ul {
+    margin: 0 auto;
+}
+.current_page {
+    color: #2a6496 !important;
+    background-color: #eee !important;
+    border-color: #ddd !important;
+}
+option, select {
+    text-transform: capitalize;
+}
+input.radio-inline {
+    float: left;
+    margin: 10px 0 0 50px;
+}
+
+span.rad-lable {
+    float: left;
+    margin: 6px 0px 0 4px;
+}
+.main-content {
+    margin: 20px 0;
+}
+.form-action {
+    text-align: right;
+}
+.article li img {
+    background-size: contain;
+    width: 100%;
+    height: 140px;
+}
+.article li {
+    max-width: 200px;
+    height: 400px;
+    margin: 0 10px 20px 10px !important;
+}
+#body .section ul.article li b {
+    font-size: 15px !important;
+}
+#body .section ul.article li p {
+    font-size: 11px !important;
+}
+.nurses li img {
+    max-width: 80px;
+    height: 80px;
+}
+.departments li img, .services li img, .diseases li img{
+    width: 219px;
+    height: 166px;
+}
+.nurses ul li {
+    min-height: 140px;
+}
+.my-section {
+    margin: 0 auto;
+    border: solid 1px;
+    border-radius: 6px;
+    width: 938px;
+    background: #fff;
+    overflow: auto;
+}
+.data {
+    float: left;
+    width: 100%;
+    background: #113D64;
+}
+.image {
+    float: right;
+    width: 40%;
+    height: 250px;
+}
+.prof-image {
+    width: 200px;
+    height: 175px;
+    margin: 50px 0 0 0px;
+}
+.prof-image img {
+    width: 100%;
+    height: 100%;
+}
+.basic {
+    width: 60%;
+    float: left;
+    height: 200px;
+    margin: 30px 0 0 0;
+}
+.basic-data {
+    width: 70%;
+    text-align: left;
+    float: right;
+    line-height: 1.3;
+    color: #fff;
+}
+.data-left b {
+    margin: 0 0 0 140px;
+}
+.data-left {
+    float: left;
+    width: 30%;
+    text-align: left;
+    color: #113D64;
+    text-transform: capitalize;
+}
+.more {
+    background: url(../images/bg-more.png) no-repeat 0 0;
+    color: #ececec;
+    display: inline-block;
+    font-size: 11px;
+    height: 25px;
+    line-height: 25px;
+    margin: 7px 0 0;
+    padding: 0;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 100px;
+}
+.data-right {
+    width: 65%;
+    float: right;
+    text-align: left;
+    color: #111;
+}
+.basic-data h1 {
+}
+.data-bottom {
+    width: 90%;
+    margin: 22px 5% 40px 5%;
+    float: left;
+}
+.data-item {
+    padding: 20px 0;
+    float: left;
+    width: 100%;
+    background: rgba(255, 228, 228, 0.39);
+    margin: 2px 0 0 0;
+}
+select.select_custom {
+    padding: 10px 30px 10px 10px;
+    min-width: 71%;
+    margin: 15px 0 0 0;
+}
+.diseases_admin {
+    min-height: 100px;
+    border: solid 1px green;
+    width: 80%;
+    float: left;
+    margin: 0 0 20px 0;
+    height: auto;
+}
+.disease_added b {
+    float: left;
+    min-width: 50%;
+    max-width: 90%;
+    margin: 10px 0 10px 0;
+}
+.disease_added a {
+    width: 10%;
+    margin: 10px 0 10px 0;
+    float: right;
+    color: red;
+}
+.disease_added hr {
+    width: 100%;
+    margin: 0;
+}
+.my-section .section {
+    width: 100%;
+    float: left;
+    margin: 20px 0 0px 0;
+}
+h2.srch-heading {
+    width: 100%;
+    text-align: center;
+}
+ul.result_list {
+    list-style: none;
+    width: 100%;
+    margin: 0 0 20px 0;
+    padding: 0;
+}
+
+.result_list li {
+    width: 90%;
+    margin: 3px auto;
+    line-height: 3;
+    font-size: 20px;
+    background: rgba(255, 228, 228, 0.39);
+
+}
+
+.link-left {
+    width: 80%;
+    float: left;
+    margin: 0 0px 0 20px; 
+}
+
+.link-right {
+    width: 20%;
+    font-size: 16px;
+}
+.result_list li a {
+    text-decoration: none;
+    color: #113D64;
+}
+
+.result_list li a:hover {
+    opacity: 0.7;
+}
+.result_list li:hover, .data-item:hover {
+    background: rgb(255, 228, 228);
+}
+.dialog {
+    max-width: 400px;
+    margin: 70px auto;
+}
+.action-info {
+    margin: 0 0 18px 0;
+    color: blue;
+}
+td .fa{
+    padding: 3px;
+}
+table.show-info {
+    width: 92%;
+    float: left;
+    margin: 20px 0px 0 0;
+    background: rgba(255, 228, 228, 0.39);
+    padding: 20px;
+
+}
+
+.show-info tr {
+    float: left;
+    width: 100%;
+    margin: 2px 0px;
+}
+
+table.show-info td {
+    width: 40%;
+    float: left;
+    margin: 0 0px 0 20px;
+    color: #113D64;
+    padding: 15px 0;
+}
+.show-info td input, .show-info td select {
+    height: 25px;
+    font-size: 18px;
+    font-weight: normal;
+    width: 96%;
+    padding: 0px 6px;
+    float: right;
+}
+.show {
+    display: none;
+}
+.myTable {
+    text-align: center;
+}
+
+.myTable th {color: #113D64;height: 40px;background: rgb(240, 112, 119);}
+
+.myTable td {
+    height: 40px;
+    background: rgba(240, 112, 119, 0.15);
+    margin: 3px;
+}
+
+.myTable tr:hover {
+    background: rgba(240, 112, 119, 0.22);
+}
+
+table.visit_details {
+    text-align: justify;
+    width: 94%;
+    margin: 50px auto 0;
+    background: #FDFDFD;
+}
+.visit_details .left {
+    width: 40%;
+    font-weight: bold;
+
+}
+
+.visit_details td {
+    height: 40px;
+    border-bottom: ridge 1px;
+}
+.actions a {
+    color: #fff !important;
+}
+
+.actions {
+    float: left;
+    width: 100%;
+    height: 5px;
+    text-align: right;
+}
+#body .header div{
+    padding: 0 0 38px 4px;
+}
